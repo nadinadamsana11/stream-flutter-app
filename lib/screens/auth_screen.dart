@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../services/auth_service.dart';
-import '../widgets/custom_toast.dart';
+import '../../services/auth_service.dart';
+import '../../widgets/custom_toast.dart';
 
 class AuthScreen extends StatefulWidget {
   const AuthScreen({Key? key}) : super(key: key);

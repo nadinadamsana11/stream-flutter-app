@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import '../services/database_service.dart';
-import '../models/user_model.dart';
-import '../models/video_model.dart';
-import '../widgets/custom_toast.dart';
+import '../../services/database_service.dart';
+import '../../models/user_model.dart';
+import '../../models/video_model.dart';
+import '../../widgets/custom_toast.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({Key? key}) : super(key: key);

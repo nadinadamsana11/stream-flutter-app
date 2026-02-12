@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '../services/database_service.dart';
-import '../models/video_model.dart';
-import '../widgets/video_card.dart';
-import '../widgets/app_drawer.dart';
+import '../../services/database_service.dart';
+import '../../models/video_model.dart';
+import '../../widgets/video_card.dart';
+import '../../widgets/app_drawer.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
